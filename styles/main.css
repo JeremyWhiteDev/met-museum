@@ -1,0 +1,11 @@
+.card {
+    max-width: 400px;
+    background-image: linear-gradient(0deg, #e81cff, #40c9ff);
+    border-radius: 8px;
+    box-shadow: 0 0 8px gray;
+    padding: 15px;
+    margin: 10px;
+}
+img {
+    max-width: inherit;
+}
